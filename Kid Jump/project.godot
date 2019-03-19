@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Kid Jump"
+run/main_scene="res://Escenas/Escena.tscn"
 config/icon="res://icon.png"
 
 [rendering]
